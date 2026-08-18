@@ -1,4 +1,45 @@
-## Hi there 👋
+<head>
+  <h1>Hi, I'm Carlo 👋</h1>
+  <p>
+    <a href="mailto:mixco1a0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/carlo-mixco/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/></a>
+  </p>
+</head>
+<body>
+  <h2>🖥 Who Am I?</h2>
+  <p>Software Engineer with 14 years of experience delivering high-quality software across more than 20 shipped video game
+titles on console, mobile, and PC platforms. Strong background in gameplay, systems, tools, UI and cross-platform development.
+Proven track record leading teams, coordinating with external partners, and delivering high-quality systems from development
+through release
+  </p>
+  <h2>🛠️ Tech Stack</h2>
+  <div>
+    <h3>⌨ Languages</h3>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"/>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"/>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
+  </div>
+  <div>
+    <h3>💿 Software</h3>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode//vscode-original.svg"/>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg"/>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg"/>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"/>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg"/>
+  </div>
+</body>
+
+
+
 
 <!--
 **mixco1a0/mixco1a0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +51,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
