@@ -15,6 +15,13 @@ through release
   <h2>🛠️ Tech Stack</h2>
   <div>
     <h3>⌨ Languages</h3>
+    <img width="48px" src="https://skillicons.dev/icons?i=cpp"/>
+    <img width="48px" src="https://skillicons.dev/icons?i=cs"/>
+    <img width="48px" src="https://skillicons.dev/icons?i=py"/>
+    <img width="48px" src="https://skillicons.dev/icons?i=lua"/>
+    <img width="48px" src="https://skillicons.dev/icons?i=powershell"/>
+    <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
+    <!-- different format
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"/>
@@ -22,9 +29,27 @@ through release
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"/>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
+    -->
   </div>
   <div>
     <h3>💿 Software</h3>
+    <img width="48px" src="https://skillicons.dev/icons?i=visualstudio"/>
+    <img width="48px" src="https://skillicons.dev/icons?i=vscode"/>
+    <img width="48px" src="https://skillicons.dev/icons?i=git"/>
+    <img width="48px" src="https://skillicons.dev/icons?i=github"/>
+    <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/>
+    <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg"/>
+    <img width="48px" src="https://skillicons.dev/icons?i=unreal"/>
+    <img width="48px" src="https://skillicons.dev/icons?i=obsidian"/>
+    <img width="48px" src="https://skillicons.dev/icons?i=mysql"/>
+    <img width="48px" src="https://skillicons.dev/icons?i=postman"/>
+    <img width="48px" src="https://skillicons.dev/icons?i=jenkins"/>
+    <!-- working on it...
+    <img width="48px" src="https://skillicons.dev/icons?i=unity"/>
+    <img width="48px" src="https://skillicons.dev/icons?i=godot"/>
+    <img width="48px" src="https://skillicons.dev/icons?i=robloxstudio"/>
+    -->
+    <!-- different format
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode//vscode-original.svg"/>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
@@ -36,6 +61,7 @@ through release
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"/>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg"/>
+    -->
   </div>
 </body>
 
